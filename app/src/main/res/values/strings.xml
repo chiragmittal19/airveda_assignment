@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Airveda Assignment</string>
+    <string name="feeds">Feeds</string>
+    <string name="feed">Feed</string>
+    <string name="feeds_not_available">Feeds are not available</string>
+    <string name="no_internet">You are not connected to the internet</string>
+    <string name="description">Description</string>
+</resources>
